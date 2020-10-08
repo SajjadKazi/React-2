@@ -9,6 +9,7 @@ class Form extends Component {
 
         */
        this.state ={
+           Name =""
 
        }
     }
